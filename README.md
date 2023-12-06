@@ -24,6 +24,8 @@ Somos uma empresa de monitoramento de hardwares em tempo real e possuímos como 
 OBS: O slack bloqueia qualquer link dele que seja visto na internet publicamente, como se eu subir no git ele bloqueia o hook, nesse caso o link é pego e separado a ultima sequencia de letras após a / e fica em outro .kt (no caso no SQLserver) e o restante no ScriptPython.kt
 Link do nosso slack: https://join.slack.com/t/trackware-grupo/shared_invite/zt-27fu1dwhu-EtT3uEzSCqbDdS932Svq8Q - Esse convite vence em 14 dias - Começa a conta de hoje dia 06/12/2023
 
+⨠ Qualquer problema encontrado, por favor, verifique se ele existe no repositorio original também, pois ao subir muitos arquivos aqui pode ocasionar sem querer em alguma falha que não existia antes.
+
 ⨠ Para mais informações entrar em contato por qualquer modo preferencialmente Mensagem direta com um dos membros do grupo.
 
 Trackware - Grupo 9: Cesar, Everton, Giovanna, Gustavo, Nathan
