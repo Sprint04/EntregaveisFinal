@@ -16,7 +16,7 @@ Somos uma empresa de monitoramento de hardwares em tempo real e possuímos como 
 
 ## Observações
 
-⨠ Nosso site pode não funcionar pois esta com nossa EC2 windows, porem supostamente ao trocar a conexão banco SQL server do site e rodar o script de criação que esta aqui dentro o site deve funcionar (sem dados, porem apos isso ele coloca).
+⨠ Nosso site pode não funcionar pois esta conectado com nossa EC2 windows que não esta no ar no momento (porem caso necessario falar com Nathan Ribeiro), porem supostamente ao trocar a conexão banco SQL server do site e rodar o script de criação que esta aqui dentro o site deve funcionar (sem dados, porem apos isso ele coloca).
 
 ⨠ Para criar uma EC2 linux do mesmo estilo em que estavamos usando só é necessario criar uma EC2 linux e executar o ShellScript (para facilitar: "https://github.com/Sprint04/ShellScript.git" para só clonar o ShellScript. se o clone não funcionar, use o sh que este arquivo contem mesmo).
 
