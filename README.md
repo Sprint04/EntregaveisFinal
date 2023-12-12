@@ -20,6 +20,10 @@ Somos uma empresa de monitoramento de hardwares em tempo real e possuímos como 
 
 ⨠ Para criar uma EC2 linux do mesmo estilo em que estavamos usando só é necessario criar uma EC2 linux e executar o ShellScript (para facilitar: "https://github.com/Sprint04/ShellScript.git" para só clonar o ShellScript. se o clone não funcionar, use o sh que este arquivo contem mesmo).
 
+⨠ Oque fazer se os graficos não carregarem? de dois cliques na legenda do grafico, a linha deve aparecer, problema normal de responsividade de diferentes monitores que pode ocorrer.
+
+⨠ Meu cadastro não foi e agora? Em caso disso acontecer, apenas tome cuidado para ver se realmente não foi, se realmente não foi um segundo clique deve cadastrar corretamente (A API dos correios as vezes resolve interromper o processo de cadastro, mas ele esta funcionando corretamente, só as vezes pode ser interrompido. Nesses casos, um segundo clique no botão deve fazer funcionar.)
+
 ⨠ Nossa solução é capaz de enviar mensagens ao slack, porem durante a verificação não sei se é possivel que entre no nosso slack, sendo o caso, ao criar um slack novo, entrar em gerenciar Apps, desenvolver e criar um bot com a base disposivel e copiar o webhook, somente é preciso colar ele no lugar do nosso nos pythons do grupo e do nathanIndividual para que eles enviem mensagens.
 OBS: O slack bloqueia qualquer link dele que seja visto na internet publicamente, como se eu subir no git ele bloqueia o hook, nesse caso o link é pego e separado a ultima sequencia de letras após a / e fica em outro .kt (no caso no SQLserver) e o restante no ScriptPython.kt
 Link do nosso slack: https://join.slack.com/t/trackware-grupo/shared_invite/zt-27fu1dwhu-EtT3uEzSCqbDdS932Svq8Q - Esse convite vence em 14 dias - Começa a conta de hoje dia 06/12/2023
